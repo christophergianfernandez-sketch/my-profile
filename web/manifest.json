@@ -1,11 +1,11 @@
 {
-    "name": "fernandez_unit5_exercise",
-    "short_name": "fernandez_unit5_exercise",
+    "name": "Gian's Profile",
+    "short_name": "Gian's Profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Gian's personal profile and portfolio.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
